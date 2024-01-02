@@ -2,7 +2,7 @@
 <img align="right" width="345" height="225" src="https://w0.peakpx.com/wallpaper/582/516/HD-wallpaper-linux-programmer-pixel-art-linux-computer-hacker-pixel-8-bit.jpg"></img><br><br><span align="left"><br><br>
 ### Hey! Welcome to my profile!!<br><br>
 <span align="left">
-About Me:<br><br>- 💻 Systems engineering student, passionate about Linux and the terminal.<br>- 🌱 Always learning and exploring new technologies in the world of systems.<br>- 👯 Always ready to collaborate on innovative projects!<br>- 💬 Contact me through for whatsapp: UNAVAILABLE
+About Me:<br><br>- 💻 Systems engineering student, passionate about Linux and the terminal.<br>- Always learning and exploring new technologies in the world of systems.<br>- 👯 Always ready to collaborate on innovative projects!<br>- 💬 Contact me through for whatsapp: UNAVAILABLE
 </span>
 
 # 💻 Tech Stack:
