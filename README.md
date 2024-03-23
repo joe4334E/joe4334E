@@ -1,29 +1,28 @@
-### Hi there 👋 
-### This is Fernando Roldán!
+### ¡Hola! 👋 
+### ¡Soy Efrain Colque !
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TuUsuarioGithub)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TuPerfilLinkedIn/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Tucorreoelectronico@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+¡Bienvenido(a) a mi página de GitHub! Soy Efrain Colque y actualmente estoy terminando mi Carrera en Ingeniería de Sistemas en la Escuela Militar de Ingenieria.
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
+#### 🌱 Cosas en las que estoy trabajando actualmente:
+- **Terminar mi proyecto de Grado**: Lo estoy desarrollando como parte de mi requisito para conseguir trabajo.
+- **Cursos en línea sobre PWA y desarrollo Web**: Busco mejorar mis habilidades en este campo.
+- **Prácticas empresariales en EMI-Software**: Estoy emocionado(a) por la oportunidad de aprender y crecer en un entorno profesional.
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### :muscle: Desafíos personales:
+- **Levantarme temprano**: Para aprovechar mejor el día y aumentar mi productividad.
+- **Codificar al menos 4 horas al día**: Para mejorar mis habilidades de programación.
+- **Ejercicio 3 días a la semana**: Para mantenerme saludable y en forma.
+- **Mejorar mi CV con educación adicional**: Aparte de la universidad, busco obtener certificaciones y participar en cursos que complementen mi formación.
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
-
-#### :computer: Programming languages and tools: 
+#### :computer: Lenguajes de programación y herramientas:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGithub&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -38,4 +37,4 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Créditos a: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) por la maravillosa [imagen](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
