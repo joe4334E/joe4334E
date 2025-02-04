@@ -6,6 +6,3 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Tucorreoelectronico@gmail.com)
 
 ¡Bienvenido(a) a mi página de GitHub! Soy Efrain Colque, próximo a graduarme en Ingeniería de Sistemas en la Escuela Militar de Ingeniería.
-
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
