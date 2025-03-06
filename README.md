@@ -1,6 +1,4 @@
-¡Por supuesto! Aquí tienes una versión más corta y sencilla para tu perfil de GitHub:
 
----
 
 ## ¡Hola! 👋 Soy **Efraín Colque**  
 ### Desarrollador Web | Ingeniero en Sistemas | Apasionado por Linux
