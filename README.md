@@ -25,7 +25,4 @@ Soy **Desarrollador Web** y **Ingeniero en Sistemas** con experiencia en **HTML*
 ### 🎯 **Objetivos**  
 Estoy buscando crecer como desarrollador web y seguir explorando el mundo de **Linux** y **DevOps**. Actualmente trabajando en proyectos personales para mejorar mis habilidades.
 
----
-
-¡Gracias por visitar mi perfil! Si deseas colaborar o saber más, ¡no dudes en contactarme! 😊
 
